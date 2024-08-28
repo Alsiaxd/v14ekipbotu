@@ -29,16 +29,6 @@ module.exports = {
         name: `saviour-${member.id}.png`
     }]});
 
-    //const verilecekRol = member.guild.roles.cache.get(`rolid`);
-    //if (verilecekRol) {
-    //    try {
-   //         await member.roles.add(verilecekRol);
-    //    } catch (error) {
-   //         console.error(`Rol verilirken bir hata oluştu: ${error}`);
-    //    }
-  //  } else {
- //       console.error("Belirtilen rol bulunamadı.");
- //   }
 
   }
 };
