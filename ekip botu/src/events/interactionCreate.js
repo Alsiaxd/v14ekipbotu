@@ -81,7 +81,7 @@ module.exports = {
         await interaction.followUp(`Şikayet Destek kanalı başarıyla oluşturuldu: <#${channel.id}>`);
       } else if (customId === 'sifirla') {
         await interaction.reply('Seçim sıfırlanıyor...');
-        // Bu işlem için gerekli olan kodu buraya ekleyin.
+    
       }
     } else if (interaction.isContextMenuCommand()) {
       const { commands } = client;
