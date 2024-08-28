@@ -1,0 +1,15 @@
+{
+  "name": "fivereborn-query",
+  "version": "1.0.4",
+  "description": "A module to query FiveReborn servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liquid <liquid@l1q.pw>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiquidObsidian/fivereborn-query"
+  }
+}
