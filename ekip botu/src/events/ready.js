@@ -18,7 +18,7 @@ module.exports = {
       console.error(error);
     }
 
-    // Bot hazır olduğunda durumu ayarla
+
     client.user.setActivity("Asl Bot's", { 
       type: ActivityType.Streaming, 
       url: "https://www.twitch.tv/aslxnn333" 
